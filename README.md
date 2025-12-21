@@ -18,6 +18,8 @@ Hi, I’m a passionate learner and developer who believes that growth comes from
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=R-ayush&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+![Snake animation](https://github.com/R-ayush/R-ayush/raw/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=R-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
 
