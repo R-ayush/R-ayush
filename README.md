@@ -16,7 +16,7 @@ Hi, I’m a passionate learner and developer who believes that growth comes from
 ![](https://github-profile-trophy.vercel.app/?username=R-ayush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=R-ayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=R-ayush&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=R-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
