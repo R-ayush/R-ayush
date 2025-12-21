@@ -1,5 +1,5 @@
 <div>
-# 💫 About Me:
+  
 Hi, I’m a passionate learner and developer who believes that growth comes from curiosity, consistency, and building real things. I use code as a way to solve problems, express ideas, and turn imagination into reality.<br><br>As Steve Jobs said, “<b>The people who are crazy enough to think they can change the world are the ones who do.</b>”<br>I aim to keep learning, experimenting, and improving—one project, one bug fix, and one commit at a time.<br><br>I believe in progress over perfection, collaboration over competition, and never stopping the learning process. <b>“Success is not final, failure is not fatal: it is the courage to continue that counts.”</b> — Winston Churchill<br><br>Welcome to my GitHub, where I share my journey, my projects, and my growth.
 </div>
 
